@@ -4,13 +4,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* Style all paragraph text */
 p {
   font-size: medium;
-  color: darkgrey; /* White text for contrast */
+  color: darkgrey;
 }
 
-/* Style all headings */
 h1, h2, h3, h4, h5, h6 {
   color: purple;
 }
