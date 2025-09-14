@@ -1,13 +1,13 @@
 /* Set the background color of the entire page */
 body {
-  background-color: green;
+  background-color: #90EE90;
   font-family: Arial, sans-serif;
 }
 
 /* Style all paragraph text */
 p {
   font-size: medium;
-  color: white; /* White text for contrast */
+  color: darkgrey; /* White text for contrast */
 }
 
 /* Style all headings */
